@@ -1,0 +1,4 @@
+Chunking Method,Number of Chunks,Hit Rate,MRR
+Fixed Chunking,18,1.0,0.5
+Structural Chunking,4,1.0,1.0
+Dynamic Chunking,3,1.0,1.0
